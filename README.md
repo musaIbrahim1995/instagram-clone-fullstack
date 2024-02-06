@@ -10,6 +10,7 @@ A new Flutter project.
 ![Screenshot_20240206-073254](https://github.com/musaIbrahim1995/instagram-clone-fullstack/assets/155387726/af781ed7-c8bf-48a0-bc61-5099ceef4beb)
 
 This project is a starting point for a Flutter application.
+![Screenshot_20240206-072105](https://github.com/musaIbrahim1995/instagram-clone-fullstack/assets/155387726/8bb03bab-322f-4b0f-a845-a3fac30aa11d)
 
 A few resources to get you started if this is your first Flutter project:
 
